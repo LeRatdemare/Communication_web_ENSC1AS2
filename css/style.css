@@ -1,0 +1,30 @@
+body
+{
+    background-image: url("https://img.freepik.com/free-photo/sunshine-clouds-sky-during-morning-background-blue-white-pastel-heaven-soft-focus-lens-flare-sunlight-abstract-blurred-cyan-gradient-peaceful-nature-open-view-out-windows-beautiful-summer-spring_1253-1092.jpg?size=626&ext=jpg&ga=GA1.1.1369668617.1674725635");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+section
+{
+    margin:auto;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    width: 70%;
+    background-color: bisque;
+    padding: 40px;
+    border-radius: 10px;
+}
+h1
+{
+    text-align: center;
+    /*color: linear-gradient(45, rgb(0, 0, 0), rgb(200, 0, 200))*/
+    font-size: 72px;
+    background: -webkit-linear-gradient(45deg, rgb(0, 0, 0), rgb(200, 0, 200));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+footer
+{
+    text-align: end;
+}
