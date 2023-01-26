@@ -5,8 +5,8 @@ Cours collaboratif de Communication web pour l'année 2022/2023 au S2 (ENSC).
 
 ## Utilisation générale
 Pour participer à la rédaction du cours en créant le moins de conflits possibles, il faut mettre en place quelques règles :
-    - Toutes les pages HTML seront placées dans le dossier html (logique xD), jusqu'à ce que le README change, ça sera 1 page par CM en gros
-    - ça serait top que toutes les pages soient reliées au même fichier css, sentez vous libres de le modifier à votre sauce
+  - Toutes les pages HTML seront placées dans le dossier html (logique xD), jusqu'à ce que le README change, ça sera 1 page par CM en gros
+  - ça serait top que toutes les pages soient reliées au même fichier css, sentez vous libres de le modifier à votre sauce
 
 ## Travailler avec Git/GitHub
 
