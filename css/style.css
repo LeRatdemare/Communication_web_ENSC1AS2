@@ -24,6 +24,13 @@ h1
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+nav
+{
+    margin:auto;
+    border: 2px #ff00cc solid;
+    border-radius: 10px;
+    background-color: #f7bf9c;
+}
 footer
 {
     text-align: end;
