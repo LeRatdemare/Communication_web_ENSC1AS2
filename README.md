@@ -33,6 +33,7 @@ Pas besoin de lancer de terminal ni d'utiliser d'éditeur de code (comme VSCode 
 3. Si je veux commencer à travailler sur une nouvelle fonctionnalité/partie du site je crée une sous branche de **dev-branch**
     1. Je vérifie que je suis bien sur **dev-branch** en faisant `git branch`
     2. Si c'est bon je crée ma branche et je me mets dessus en faisant <code>git checkout -b <b>maNouvelleBranche</b></code>
+    3. Enfin, je pousse ma branche sur le dépôt distant (GitHub) en faisant <code>git push origin <b>maNouvelleBranche</b></code> pour que les autres puissent y accéder aussi
 4. Lorsque je veux apporter des modifications sur une branche, je commence ***toujours*** par me mettre à jour sur celle-ci :
     1. Je fais <code>git pull origin <b>maNouvelleBranche</b></code>
     2. Je peux aussi me mettre à jour sur les dernières mises à jour générales de temps en temps en faisant <code>git pull origin <b>dev-branch</b></code> en étant sur **maNouvelleBranche**.
