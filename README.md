@@ -14,7 +14,7 @@ Pour participer à la rédaction du cours en créant le moins de conflits possib
 ### Cloner le dépôt
 Afin de récupérer le dépôt GitHub ici-présent pour en faire une copie sur votre machine (que l'on appelera donc dépôt local) :
 1. J'ouvre un terminal GitBash (ou n'importe quel autre terminal, sur VSCode par exemple)
-2. Je me place dans le dossier où je veux mettre mon dépôt en faisant "cd C:/leCheminVersMonDossier"
+2. Je me place dans le dossier où je veux mettre mon dépôt en faisant `cd C:/leCheminVersMonDossier`
 3. Toujours depuis le terminal je fais "git clone https://github.com/LeRatdemare/Communication_web_ENSC1AS2" (lien récupérable depuis l'onglet *Code* de l'interface GitHub)
     - Je remarque que la commande a créé un nouveau dossier **Communication_web_ENSC1AS2** à l'intérieur du dossier dans lequel je me trouvais. C'est bien ce sous-dossier qu'on appelle "dépôt local" !
     - Pour pouvoir exécuter des commandes Git (ex : "git add ...", "git branch", etc...) relatives à ce dépôt je dois d'abord me placer dedans en faisant "cd C:/leCheminVersMonDossier/*Communication_web_ENSC1AS2*"
