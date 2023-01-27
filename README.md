@@ -17,7 +17,7 @@ Afin de récupérer le dépôt GitHub ici-présent pour en faire une copie sur v
 2. Je me place dans le dossier où je veux mettre mon dépôt en faisant `cd C:/leCheminVersMonDossier`
 3. Toujours depuis le terminal je fais `git clone https://github.com/LeRatdemare/Communication_web_ENSC1AS2` (lien récupérable depuis l'onglet *Code* de l'interface GitHub)
     - Je remarque que la commande a créé un nouveau dossier **Communication_web_ENSC1AS2** à l'intérieur du dossier dans lequel je me trouvais. C'est bien ce sous-dossier qu'on appelle "dépôt local" !
-    - Pour pouvoir exécuter des commandes Git (ex : `git add ...`, `git branch`, etc...) relatives à ce dépôt je dois d'abord me placer dedans en faisant `cd C:/leCheminVersMonDossier/*Communication_web_ENSC1AS2*`
+    - Pour pouvoir exécuter des commandes Git (ex : `git add ...`, `git branch`, etc...) relatives à ce dépôt je dois d'abord me placer dedans en faisant <pre>cd C:/leCheminVersMonDossier/<b>Communication_web_ENSC1AS2</b></pre>
 
 ### Lancer le site
 
@@ -26,7 +26,7 @@ Pas besoin de lancer de terminal ni d'utiliser d'éditeur de code (comme VSCode 
 
 ## Travailler avec Git/GitHub
 
-1. Je ne travaille JAMAIS sur la branche **main** -> Ne jamais faire `git checkout **main**`
+1. Je ne travaille JAMAIS sur la branche **main** -> Ne jamais faire <pre>git checkout <b>main</b></pre>
 2. Quand je ne suis pas encore entrain de travailler sur qqch en particulier je me met sur la branche **dev-branch**
     - La 1ère fois faire `git checkout -b **dev-branch**` pour créer la branche et vous mettre dessus directement
     - Les autres fois faire `git checkout **dev-branch**` (plus besoin de la recréer)
